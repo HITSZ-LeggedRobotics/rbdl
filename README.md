@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 RBDL - Rigid Body Dynamics Library
 Copyright (c) 2011-2018 Martin Felis <martin@fysx.org>
 
@@ -204,3 +205,7 @@ School of Mathematical and Computational Methods for the Sciences
 (HGS)](http://hgs.iwr.uni-heidelberg.de/hgs.mathcomp/), and the European
 FP7 projects [ECHORD](http://echord.eu) (grant number 231143) and
 [Koroibot](http://koroibot.eu) (grant number 611909).
+=======
+# rbdl
+copy from rbdl https://bitbucket.org/rbdl/rbdl/src/default/
+>>>>>>> 766ce98c7539aa1960df42a95cc0515dd7a1374e
